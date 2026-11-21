@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://github.com/B4ckd0orl/davinci-core/releases/download/v1.0.0/Davinci-Core-v1.0.elf"><img src="https://img.shields.io/badge/%E2%AC%85%20Descargar_ELF-v1.0.0-4c8dff?style=for-the-badge" alt="Descargar ELF"></a>
   <a href="https://t.me/padrinostores"><img src="https://img.shields.io/badge/Telegram-@padrinostores-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://github.com/B4ckd0orl/davinci-core/actions"><img src="https://img.shields.io/badge/Build-GitHub_Actions-4c8dff?style=for-the-badge" alt="Actions"></a>
 </p>
 
 ---
