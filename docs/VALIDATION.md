@@ -1,6 +1,6 @@
 # Validation status
 
-The local0.5.3-beta.1 development build passed725synthetic Chrome assertions across31locale selections at desktop/mobile widths, JavaScript syntax/catalog validation and the two-stage PS5 build. Tests cover library filters, installer navigation, settings, guarded source deletion, kernel-log rendering, diagnostics graphs, current alerts, focus-managed dialogs and browser report content. Synthetic previews/tests do not establish hardware behavior.
+The local 1.0.0 development build passed 725 synthetic Chrome assertions across 31 locale selections at desktop/mobile widths, JavaScript syntax/catalog validation and the two-stage PS5 build. Tests cover library filters, installer navigation, settings, guarded source deletion, kernel-log rendering, diagnostics graphs, current alerts, focus-managed dialogs and browser report content. Synthetic previews/tests do not establish hardware behavior.
 
 The underlying non-HTML backend source and pinned payload/runtime bytes are unchanged from the preceding development revision. Earlier host/installer/native-reader tests are reused evidence for those unchanged components. The custom AMPR notice build passed the upstream PRX checker. Compile/build success is not gameplay evidence.
 

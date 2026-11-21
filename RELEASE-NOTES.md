@@ -27,7 +27,7 @@ DAVINCI bundles the resident services. Disable separate kstuff/ShadowMount autol
 
 ## Validation and limits
 
-104 synthetic Rust tests and both optimized unified ELF build stages passed. This release retains the0.6.5 behavior; the maintainer has reported successful use on the development console, but no new agent-run v1.0 hardware playtest or universal firmware compatibility pass was performed.
+104 synthetic Rust tests and both optimized unified ELF build stages passed. This release retains the 0.6.5 behavior; the maintainer has reported successful use on the development console, but no new agent-run v1.0 hardware playtest or universal firmware compatibility pass was performed.
 
 **Full external package size in PS5 System storage remains unverified and is not changed by this release.** DAVINCI displays the measured external package and internal cache separately. Cache needs internal space. Generic retail/encrypted PKGs, power-loss resume and update/DLC merging are not added. Extra console locales retain documented partial translation/English fallback.
 

@@ -25,7 +25,7 @@ class Handler(BaseHTTPRequestHandler):
   elif route=='/bg.jpg': body=(ROOT/'src/bg.jpg').read_bytes(); mime='image/jpeg'
   elif route=='/donacion.jpg': body=(ROOT/'src/donacion.jpg').read_bytes(); mime='image/jpeg'
   elif route=='/':
-   body=(ROOT/'src/ui.html').read_text().replace('__VERSION__','0.5.3-beta.1 FIXTURE').replace(' manifest="davinci.appcache"','')
+   body=(ROOT/'src/ui.html').read_text().replace('__VERSION__','1.0.0 FIXTURE').replace(' manifest="davinci.appcache"','')
    body=body.encode(); mime='text/html'
   else: self.send_error(404); return
   self.send_response(200); self.send_header('Content-Type',mime); self.end_headers();self.wfile.write(body)
