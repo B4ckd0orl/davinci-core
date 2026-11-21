@@ -1,0 +1,157 @@
+{
+  "ar": {
+    "entries": 427,
+    "authored": 427,
+    "technical_fallback": false
+  },
+  "zh-CN": {
+    "entries": 427,
+    "authored": 427,
+    "technical_fallback": false
+  },
+  "zh-TW": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "cs": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "da": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "nl": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "en-GB": {
+    "entries": 427,
+    "authored": 427,
+    "technical_fallback": false
+  },
+  "en-US": {
+    "entries": 427,
+    "authored": 427,
+    "technical_fallback": false
+  },
+  "fi": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "fr-CA": {
+    "entries": 427,
+    "authored": 427,
+    "technical_fallback": false
+  },
+  "fr-FR": {
+    "entries": 427,
+    "authored": 427,
+    "technical_fallback": false
+  },
+  "de": {
+    "entries": 427,
+    "authored": 427,
+    "technical_fallback": false
+  },
+  "el": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "hu": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "id": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "it": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "ja": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "ko": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "nb": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "pl": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "pt-BR": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "pt-PT": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "ro": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "ru": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "es-419": {
+    "entries": 427,
+    "authored": 427,
+    "technical_fallback": false
+  },
+  "es-ES": {
+    "entries": 427,
+    "authored": 427,
+    "technical_fallback": false
+  },
+  "sv": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "th": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "tr": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "uk": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  },
+  "vi": {
+    "entries": 427,
+    "authored": 50,
+    "technical_fallback": true
+  }
+}
